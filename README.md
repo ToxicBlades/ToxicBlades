@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ToxicBlades
-- 👀 I’m interested in web development 
+- 👀 I’m interested in web development
+- 🧠 At the moment i work with: nodejs, typescript, react, nodejs, prisma 
 - 🌱 I’m currently learning creating full stack application using t3-stack
 - 📫 How to reach me: toxicblade.work@gmail.com
 
