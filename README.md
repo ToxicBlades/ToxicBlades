@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying Information Management at UTM University, diving deep into programming languages and tech. <br>Feel free to see all my skills and work experince in my cv: [![My_CV](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toxicblades/My-cv)
+I'm currently studying Information Management at UTM University, diving deep into programming languages and tech. <br>Feel free to see all my skills and work experince in my cv: <br>[![My_CV](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toxicblades/My-cv)
 
 
 
