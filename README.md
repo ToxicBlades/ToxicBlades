@@ -3,7 +3,7 @@ I'm currently studying Information Management at UTM University, diving deep int
 
 
 ## 🌐 Socials:
-📃[My Cv](https://github.com/ToxicBlades/My-cv)<br>
+[![My Cv](https://i.pinimg.com/736x/63/87/2f/63872fe790e219d4ef69bc316df76c92.jpg)](https://github.com/ToxicBlades/My-cv)<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikita.toxicblade) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nick-bitca-a5b469256) 
 
 # 💻 Tech Stack:
